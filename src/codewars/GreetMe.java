@@ -3,7 +3,7 @@ package codewars;
 public class GreetMe {
 
     public static void main(String[] args) {
-        System.out.println(greet("Razvan"));
+        System.out.println(greet("razvan"));
     }
 
     public static String greet(String name) {
