@@ -19,7 +19,7 @@ public class CountingSheep {
                 count++;
             }
         }
-        System.out.println("There are " + count + " sheeps in total.");
+        System.out.println("There are " + count + " sheep in total.");
         return count;
     }
 }
